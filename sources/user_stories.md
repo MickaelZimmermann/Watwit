@@ -2,19 +2,19 @@
 
 ## As an anonymous user :
 
-I want to :
+I can :
 -Have access to the home page,
 -Select several datas (ingredients, types of food, etc.),
 -Have access to results depending on the datas selected,
 -Have access to a specific recipe,
--Have the possibility to log in,
+-Log in,
 
 
 ## As a logged user :
 
-I want to :
+I can :
 -Have access to my account,
--Be able to modify my account's informations,
+-Modify my account's informations,
 -Save some recipes as favorites,
 -Have access to my favorites' page,
 -Exclude some recipes,
@@ -25,7 +25,7 @@ I want to :
 
 ## As an administrator :
 
-I want to :
+I can :
 -Moderate the recipes proposed by members,
 -Modify, add or delete any recipe,
 -Modify, add or delete any ingredient,
