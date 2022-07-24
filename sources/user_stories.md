@@ -2,11 +2,11 @@
 
 | As | I can | In order to |
 |--|--|--|
-| An anonymous user | Have access to the home page | See the site |
+| An anonymous user | Have access to the home page | Navigate on the site |
 | An anonymous user | Select several datas (ingredients, types of food, etc.) | Launch a search |
 | An anonymous user | Have access to results depending on the datas selected |  Select one specific recipe I'd want to make |
-| An anonymous user | Have access to a specific recipe | Make this recipe |
-| An anonymous user | Log in | Enjoy the several functionalities of a registered user |
+| An anonymous user | Have access to a specific recipe | See the informations about this recipe |
+| An anonymous user | Log in | Enjoy the several functionalities a registered user has |
 | -- | -- | -- |
 | A logged user | Have access to my account | See my informations |
 | A logged user | Modify my account's informations | Update or change any information |
